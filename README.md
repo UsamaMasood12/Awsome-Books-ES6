@@ -117,14 +117,6 @@ Open the index.html file using a web browser
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
-👤 **mrprotocoll**
-
-- GitHub: [@mrprotocoll](https://github.com/mrprotocoll)
-- Twitter: [@dprotocoll](https://twitter.com/dprotocoll)
-- LinkedIn: [@mrprotocoll](https://www.linkedin.com/in/mrprotocoll)
-
 👤 **Usama Masood**
 
 - GitHub: [@UsamaMasood12](https://github.com/UsamaMasood12)
